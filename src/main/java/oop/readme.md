@@ -452,7 +452,11 @@ public class Overloading {
 
 
 
+spring中，通过在构造器注入中使用接口引用指向实现类对象，使对象只通过接口来表明依赖关系，可以使对象的依赖用不同的具体实现进行替换。解决了对象间松耦合的问题。
 
+
+
+![image-20200105170030783](D:\CODING\My_Project\JAVASE\src\main\java\oop\assets\image-20200105170030783.png)
 
 
 
